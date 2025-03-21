@@ -11,7 +11,9 @@ The USF Quantitative Analysis Team developed a trading strategy for short sellin
 ## Prediction chart
 These are the 0utcomes of the ARIMA Model:
 - **Consumer Price Index for All Urban Consumers, U.S**.: The model predicts a decline after 2020, deviating from historical growth. This suggests a potential deflationary trend or economic slowdown.
-- 
+- **Consumer Price Index**: The forecast shows a steep upward trajectory, continuing the historical inflationary trend, indicating persistent price increases.
+- **Petroleum Consumption**: The model predicts a gradual decline, contrasting with historical stability and prior growth. This suggests potential structural shifts in energy consumption or policy changes
+
 
 
 
